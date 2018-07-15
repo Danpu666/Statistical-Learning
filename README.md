@@ -1,2 +1,2 @@
 # Statistical-Learning
-about statistical learning using R
+about statistical learning using R software
